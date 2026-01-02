@@ -3,6 +3,7 @@
 Bu proje, Bilgisayar Ağları dersi kapsamında geliştirilen ve 250 düğümlü rastgele bir ağ üzerinde **en uygun rotayı** bulmayı amaçlayan bir çalışmadır. Projede, gecikme (delay), güvenilirlik (reliability) ve kaynak kullanımı (bandwidth cost) gibi QoS odaklı metrikler dikkate alınarak çok amaçlı bir optimizasyon yapılacaktır.
 
 Projenin ilerleyen aşamalarında iki farklı algoritma (ör. Genetik Algoritma, Karınca Kolonisi Optimizasyonu vb.) kullanılarak çözümlerin karşılaştırılması hedeflenmektedir.
+*Totalde 4 farklı algoritma ile projemizi tamamladık. ALgoritmalarımız: Genetic Algorithm, Q-Learning, Simulated Annealing, Artificial Bee Colony .
 
 ---
 
